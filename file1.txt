@@ -1,1 +1,3 @@
 This is the first line to the project
+
+Addition to file 1
